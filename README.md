@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KISHAN PATEL</h1>
 <h3 align="center">A passionate frontend developer from UNITED STATES, NC</h3>
 
-- 🔭 I’m currently working on a Stock Predicter **Beer-Price-Tracker**
+- 🔭 I’m currently working on a Stock Predicter **Stock-Predicter**
 
 - 🌱 I’m currently learning **React, Node JS, DSA in Python**
 
