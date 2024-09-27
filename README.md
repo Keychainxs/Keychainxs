@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm KISHAN PATEL</h1>
 <h3 align="center">A passionate frontend developer from UNITED STATES, NC</h3>
 
-- 🔭 I’m currently working on a Stock Predicter **Stock-Predicter**
+- 🔭 I’m currently working on a Inventory Management Project  **Inventory managment System**
 
-- 🌱 I’m currently learning **React, Node JS, DSA in Python**
+- 🌱 I’m currently learning ** DSA in Python and AI**
 
 - 📫 How to reach me **Keychainxs@gmail.com**
 
