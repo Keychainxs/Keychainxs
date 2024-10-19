@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a Inventory Management Project  **Inventory managment System**
 
-- 🌱 I’m currently learning ** DSA in Python and AI**
+- 🌱 I’m currently learning DSA in Python and AI
 
 - 📫 How to reach me **kiv@ad.unc.edu**
 
