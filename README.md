@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ** DSA in Python and AI**
 
-- 📫 How to reach me **Keychainxs@gmail.com**
+- 📫 How to reach me **kiv@ad.unc.edu**
 
 - ⚡ Fun fact **I am a part-time Investor**
 
